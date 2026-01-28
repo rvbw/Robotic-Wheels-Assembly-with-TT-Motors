@@ -19,5 +19,5 @@ The objective of this assembly is to understand:
 You can view the full assembly on Onshape by clicking  
 [View Assembly on Onshape](https://cad.onshape.com/documents/dc53cb032bb3cc7289c17e00/w/d1a71a4ecb56ac58364970d6/e/806ced5bfaaa28e3dc72a506?renderMode=0&uiState=6979c60cf70686beb7d6ef4e)
 
-## 🖼️ Assembly Preview
+## Assembly Preview
 ![Robotic Wheels Assembly](images/Assembly.png)
